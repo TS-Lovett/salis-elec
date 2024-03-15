@@ -16,3 +16,7 @@ h4 {
 h5 {
     font-family: QuillPerpendicularRegular;
 }
+nav {
+    background-color:grey;
+    color: white;
+}
