@@ -24,13 +24,13 @@ nav {
     color: white;
 }
 a:link{
-    color:rgb(171, 124, 5);
+    color:rgb(11, 11, 11);
 }
 a:visited{
-    color:rgb(171, 124, 5);
+    color:rgb(11, 11, 11);
 }
 a:hover{
-    color: white;
+    color: red;
 }
 .adjustment {
     padding: 10px 10px 10px 10px;
