@@ -6,7 +6,6 @@ p {
 }
 a {
     font-family: QuillPerpendicularRegular;
-    color:antiquewhite;
 }
 div {
     font-family: QuillPerpendicularRegular;
@@ -20,4 +19,13 @@ h5 {
 nav {
     background-color:grey;
     color: white;
+}
+a:link{
+    color:antiquewhite;
+}
+a:visited{
+    color:goldenrod;
+}
+a:hover{
+    color: red;
 }
