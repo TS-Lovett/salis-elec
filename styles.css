@@ -21,11 +21,11 @@ nav {
     color: white;
 }
 a:link{
-    color:antiquewhite;
+    color:rgb(171, 124, 5);
 }
 a:visited{
-    color:goldenrod;
+    color:rgb(171, 124, 5);
 }
 a:hover{
-    color: red;
+    color: white;
 }
