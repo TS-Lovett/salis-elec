@@ -29,3 +29,6 @@ a:visited{
 a:hover{
     color: white;
 }
+.adjustment {
+    padding: 10px;
+}
